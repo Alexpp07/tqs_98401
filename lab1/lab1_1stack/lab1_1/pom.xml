@@ -14,8 +14,9 @@
 	<name>lab1_1</name>
 	<description>Lab 1.1 for TQS</description>
 	<properties>
-		<java.version>11</java.version>
-	</properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
